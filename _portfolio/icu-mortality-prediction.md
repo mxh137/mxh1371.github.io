@@ -1,26 +1,27 @@
-
 ---
-title: "ICU 患者院内死亡预测模型"
+title: "ICU 患者死亡率预测与数据可视化分析"
 collection: portfolio
 type: "Machine Learning"
 permalink: /portfolio/icu-mortality-prediction
 date: 2026-01-13
-excerpt: "本项目旨在通过多变量数据分析和机器学习模型，预测重症监护室（ICU）患者的院内死亡风险，为临床决策提供支持。"
+published: true
+excerpt: "本项目旨在通过对重症监护室（ICU）患者的临床数据进行深入分析与可视化，并构建机器学习模型预测患者的院内死亡风险，为临床决策提供支持。"
 header:
-  teaser: /images/portfolio/icu-mortality-prediction/gender_distribution.png # 示例封面图，您可以根据实际情况选择
+  image: /images/portfolio/icu-mortality-prediction/hospital_expire_flag_donut.png
+  teaser: /images/portfolio/icu-mortality-prediction/hospital_expire_flag_donut.png
+  caption: "ICU 患者死亡率预测"
+location: "Data Science"
 tags:
-  - 机器学习
   - 数据分析
-  - 预测模型
-  - 医疗健康
+  - 机器学习
+  - ICU
+  - 死亡率预测
   - Python
   - Scikit-learn
-tech_stack:
-  - name: Python
-  - name: Pandas
-  - name: NumPy
-  - name: Scikit-learn
-  - name: Matplotlib
+  - 数据可视化
+categories:
+  - Portfolio
+  - Machine Learning
 ---
 
 ## 项目背景 (Background)
